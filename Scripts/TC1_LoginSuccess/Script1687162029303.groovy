@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_log
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/div_Swag Labs'))
 
-WebUI.verifyElementText(findTestObject('Page_Swag Labs/span_Products'), 'PRODUCTS')
+WebUI.verifyElementText(findTestObject('Page_Swag Labs/span_Products'), 'Products')
 
 WebUI.closeBrowser()
 
