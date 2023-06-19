@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h3_Epic sadface Username and password do no_0e8909</name>
+   <name>h3_Login_login-failed</name>
    <tag></tag>
    <elementGuidId>b6f66beb-4692-4dab-9b63-5fcd6f83cb19</elementGuidId>
    <selectorCollection>

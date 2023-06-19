@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_Swag Labs_user-name'), 'wrong_user')
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Login_user-name'), 'wrong_user')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Swag Labs_password'), 'o6CDTymj93o=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Login_password'), 'o6CDTymj93o=')
 
-WebUI.click(findTestObject('Object Repository/Page_Login/input_Swag Labs_login-button'))
+WebUI.click(findTestObject('Object Repository/Page_Login/input_Login_login-button'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login/h3_Epic sadface Username and password do no_0e8909'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login/h3_Login_login-failed'))
 
 WebUI.closeBrowser()
 
