@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Swag Labs_password</name>
+   <name>input_Login_password</name>
    <tag></tag>
    <elementGuidId>0a04db37-aa99-430e-8610-5ac072024e9a</elementGuidId>
    <selectorCollection>

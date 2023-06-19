@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Swag Labs</name>
+   <name>div_PLP_logo</name>
    <tag></tag>
    <elementGuidId>f6c84b42-b50b-4857-8ec3-f58c579cbbea</elementGuidId>
    <selectorCollection>
