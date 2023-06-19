@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_FailedLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3f323ce-a76c-49a9-9b15-6de83ca1d70a</testCaseGuid>
+</TestCaseEntity>
